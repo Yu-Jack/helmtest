@@ -1,0 +1,6 @@
+dependencies:
+- name: crdchild
+  repository: file://dependency_charts/crdchild
+  version: 0.1.0
+digest: sha256:04f8089b45357ff58b1d95f44982ae16114460889d8fd9a63417198e9ee160fc
+generated: "2025-04-30T16:06:04.154832+08:00"
