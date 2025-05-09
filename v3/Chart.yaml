@@ -1,0 +1,7 @@
+apiVersion: v2
+name: parentchart
+version: 0.1.0
+dependencies:
+  - name: crdchild
+    version: 0.1.0
+    repository: "file://dependency_charts/crdchild"
